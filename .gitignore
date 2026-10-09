@@ -1,0 +1,3 @@
+# Build output except the pre built binary which is a deliverable
+bin/*
+!bin/light_monitor.exe
